@@ -24,7 +24,8 @@ author:
   avatar           : "profile.png"
   name             : "Ranjit Kumar Sahoo"
   pronouns         : # example: "she/her"  
-  bio              : "Learning evolutionary biology" 
+  bio              : "Learning evolutionary biology"
+  bio              : "DST-INSPIRE Faculty Fellow"
   location         : "INDIA"
   employer         : "CSIR-CCMB"
   uri              : # URL
