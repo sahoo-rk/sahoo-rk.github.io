@@ -7,7 +7,6 @@ author_profile: true
 
 Peer reviewed
 ------
-
 7. __Sahoo RK^__, Manu S, Chandrakumaran NC, Vasudevan K. 2023. Nuclear and Mitochondrial Genome Assemblies of the Beetle, *Zygogramma bicolorata*, a Globally Important Biocontrol Agent of Invasive Weed *Parthenium hysterophorus*. Genome Biology and Evolution 15(10): evad188. [link](https://doi.org/10.1093/gbe/evad188)
 6. Chazot N, Wahlberg N, Freitas AVL, Mitter C, Labandeira C, Sohn J-C, **Sahoo RK**, Seraphim N, de Jong R, Heikkilä M. 2019. Priors and posteriors in Bayesian timing of divergence analyses: The age of butterflies revisited. Systematic Biology 68(5): 797–813. [link](https://doi.org/10.1093/sysbio/syz002)
 5. __Sahoo RK^__, Kodandaramaiah U. 2018. Local host plant abundance explains negative association between larval performance and female oviposition preference in a butterfly. Biological Journal of the Linnean Society 125:333–343. [link](https://doi.org/10.1093/biolinnean/bly111)
@@ -20,7 +19,6 @@ Peer reviewed
 
 Scientific communication
 ------
-
 5. __Sahoo RK__. 2017. Digest: Ancient co-dispersals and host shifts in passerine bird – feather mite symbiosis. Evolution 71(10):2539–2540. [link](https://doi.org/10.1111/evo.13330)
 4. __Sahoo RK__ and Kodandaramaiah U. 2017. Opportunity for diversification: insights from species accumulation pattern in skipper butterflies. BMC Series blog.
 3. __Sahoo RK__. 2017. Gradient in predation risk: indicator of a feedback loop. eLetter to Science. [link](http://science.sciencemag.org/content/356/6339/742/tab-e-letters)
