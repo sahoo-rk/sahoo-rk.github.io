@@ -1,14 +1,15 @@
 ---
 permalink: /
-title: "  "
+title: "Hello there!!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+Glad to see you here. I am a researcher in the school of evolutionary thinking. I believe that our consciousness about the fundamentals of the living system is the basis of our survival and progress. My research area is at the 'population' level of the biological organisation. I employ laboratory experiments and high-throughput genomic information to gain insights into the way populations respond to their environment and how distinct ecological events such as bottleneck, migration and drift influence population resilience. Currently, I work as a Faculty Fellow at [CSIR-CCMB](https://ccmb.res.in), where I lead a [DST-INSPIRE](https://www.online-inspire.gov.in/) funded project to 
 
-Hello there! Glad to see you here. I am a research scientist broadly interested in understanding ..... I currently work as a DST-INSPIRE Faculty Fellow at [CSIR-CCMB](https://ccmb.res.in) This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
 ======
