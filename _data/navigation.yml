@@ -7,7 +7,7 @@ main:
     url: /papers/    
 
   - title: "cv"
-    url: /files/cv.pdf/    
+    url: /files/cv.pdf    
     
   - title: "links"
     url: /links/
