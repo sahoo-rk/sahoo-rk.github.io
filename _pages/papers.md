@@ -16,7 +16,7 @@ Peer reviewed
 2. __Sahoo RK^__, Warren AD, Wahlberg N, Brower AVZ, Lukhtanov VA, Kodandaramaiah U. 2016. Ten genes and two topologies: an exploration of higher relationships in skipper butterflies. PeerJ 4:e2653. [link](https://doi.org/10.7717/peerj.2653)
 1. __Sahoo RK^__. 2016. Why antagonistic traits against cytoplasmic incompatibility are so elusive. Frontiers in Microbiology 7:392. [link](https://doi.org/10.3389/fmicb.2016.00392)
 
-(*corresponding author)
+(^corresponding author)
 
 Scientific communication
 ------
