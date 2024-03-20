@@ -14,8 +14,6 @@ Glad to see you here. I am a researcher in the school of evolutionary thinking. 
 Previously, during my PhD dissertation period, I have been trained to use the 
 
 
-
-Example: editing a markdown file for a talk
 ![Lacones image](/images/lacones.jpg)
 
 For more info
