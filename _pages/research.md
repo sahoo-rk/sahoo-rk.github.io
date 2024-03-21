@@ -1,18 +1,15 @@
 ---
-permalink: /
-title: "Hello there!!"
+layout: archive
+title: ""
+permalink: /research/
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
-
+Evolution of small founding population
 ------
-Glad to see you here. I am a researcher in the school of evolutionary thinking. My research interest lies at the 'population' level of the biological organisation. I employ laboratory experiments and high-throughput genomic information to gain insights into the ways populations respond to their environment and how distinct ecological events such as bottleneck, migration and drift influence population resilience. 
+![Lacones image](/images/lacones.jpg){: .align-right width="3000px"}
+A small founding population is observed when a handful of interbreeding individuals gets dispersed/transported from the parent population and becomes the founding members in establishing a new isolated population.
+Small founding population is characterized by reduced standing genetic variation, and is prone to inbreeding, demographic stochasticity and genetic drift.
+I am starting with the genomic scan of the beetle (Zygogramma bicolorata) population in India to understand the role of habitat heterogeneity and local environmental stressors in improving the population-level genomic variability.
 
-Currently, I work as a Faculty Fellow at [CSIR-CCMB](https://ccmb.res.in), where I lead a [DST-INSPIRE](https://www.online-inspire.gov.in/) funded project to unravel the effect of historical bottleneck on contemporary population structure in a biocontrol agent with an aim to decipher potential strategies to improve the ecological resilence of the biocontrol species.
 
-Previously, during my PhD dissertation period at [IISERTVM](https://iisertvm.ac.in), I have explored the evolutionary histories of different taxonomic groups in relation to past ecological events under the frameworks of molecular phylogenetics and phylogeography.
-
-![Lacones image](/images/lacones.jpg)
