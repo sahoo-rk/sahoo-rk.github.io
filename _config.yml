@@ -21,7 +21,7 @@ repository               : "sahoo-rk/sahoo-rk.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "myprofile.jpg"
   name             : "Ranjit Kumar Sahoo"
   pronouns         : # example: "she/her"  
   bio              : "DST-INSPIRE Faculty Fellow"
