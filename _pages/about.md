@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello there!!"
+title: "Hello there!! (in a development stage currently)"
 author_profile: true
 redirect_from: 
   - /about/
