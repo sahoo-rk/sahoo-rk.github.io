@@ -8,7 +8,7 @@ author_profile: true
 Evolution in bottleneck population
 ------
 ![Lacones image](/images/lacones.jpg){: .align-right width="300px"}
-The fate of a bottleneck population is a paradox. On one hand, bottleneck turns the resulting population vulnerable to extinction, while on the other hand, A small founding population is observed when a handful of interbreeding individuals gets dispersed/transported from the parent population and becomes the founding members in establishing a new isolated population.
+The fate of bottleneck population is a paradox. On one hand, bottleneck turns the resulting population vulnerable to extinction, while on the other hand, such vulnerability appears context dependent. A small founding population is observed when a handful of interbreeding individuals gets dispersed/transported from the parent population and becomes the founding members in establishing a new isolated population.
 Small founding population is characterized by reduced standing genetic variation, and is prone to inbreeding, demographic stochasticity and genetic drift.
 I am starting with the genomic scan of the beetle (Zygogramma bicolorata) population in India to understand the role of habitat heterogeneity and local environmental stressors in improving the population-level genomic variability.
 
