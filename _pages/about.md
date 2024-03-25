@@ -15,4 +15,5 @@ Currently, I work as a Faculty Fellow at [CSIR-CCMB](https://ccmb.res.in), where
 
 Previously, I have spent a year and half at [IISERBPR](https://iiserbpr.ac.in) in exploring different research questions in the same biocontrol agent *Zygogramma bicolorata*, for instance, its reproductive biology, chemical ecology and community-level interaction. Besides, during my PhD dissertation period at [IISERTVM](https://iisertvm.ac.in), I worked with different lepidopteran taxa to understand their evolutionary histories in relation to past ecological events under the frameworks of molecular phylogenetics and phylogeography. 
 
+
 ![Lacones image](/images/lacones.jpg)
