@@ -24,3 +24,11 @@ Scientific communication
 3. __Sahoo RK__. 2017. Gradient in predation risk: indicator of a feedback loop. eLetter to Science. [link](http://science.sciencemag.org/content/356/6339/742/tab-e-letters)
 2. __Sahoo RK__. 2016. Letter on “Risks of Wolbachia mosquito control”. eLetter to Science. [link](http://science.sciencemag.org/content/351/6279/1273.2/tab-e-letters)
 1. Mehta P, Kulkarni J, __Sahoo RK__, Arulmalar E, Pawar T and Punjabi G. 2012. Status and distribution of Malabar giant squirrel (Ratufa indica) in Western Ghats of Maharashtra. Wildlife Research and Conservation Society, Pune. Final Technical report submitted to WWF-New Delhi and Rufford Small grants Foundation, United Kingdom.
+
+
+Other scientific contributions
+------
+
+> Don't read me wrong! I'm not trying to oversell myself. This is an attempt to rationalize the 
+
+1. __Sahoo RK__ and Kodandaramaiah U. 2017. Opportunity for diversification: insights from species accumulation pattern in skipper butterflies. BMC Series blog.
