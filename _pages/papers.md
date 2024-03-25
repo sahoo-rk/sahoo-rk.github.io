@@ -28,7 +28,8 @@ Scientific communication
 
 Other scientific contributions
 ------
-> Don't read me wrong! I'm not trying to oversell myself. This is an attempt to rationalize another instance in scientific contribution.
+> This is an attempt to rationalize another instance in scientific contribution.
 
-1. Acknowledged for Peer Interactive Communication (PIC) in [Kageyama et al., 2017](https://doi.org/10.1002/evl3.28).
-   `Happy to meet Dr. Daisuke Kageyama and hear his work on *Wolbachia* at the 9th Wolbachia Conference at Brisbane, Australia.`
+1. Acknowledged for Peer Interactive Communication (PIC) in [Kodandaramaiah & Murali 2018](https://doi.org/10.7717/peerj.5495).
+2. Acknowledged for Peer Interactive Communication (PIC) in [Kageyama et al., 2017](https://doi.org/10.1002/evl3.28).
+3. Acknowledged for Peer Interactive Communication (PIC) in [Pal et al., 2024](https://doi.org/10.1101/2024.01.10.574980).
