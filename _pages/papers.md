@@ -26,10 +26,10 @@ Scientific communication
 1. Mehta P, Kulkarni J, __Sahoo RK__, Arulmalar E, Pawar T and Punjabi G. 2012. Status and distribution of Malabar giant squirrel (Ratufa indica) in Western Ghats of Maharashtra. Wildlife Research and Conservation Society, Pune. Final Technical report submitted to WWF-New Delhi and Rufford Small grants Foundation, United Kingdom.
 
 
-Other scientific contributions
-------
-> This is an attempt to rationalize another instance in scientific contribution.
+#Other scientific contributions
+#------
+#> This is an attempt to rationalize another instance in scientific contribution.
 
-1. Acknowledged for Peer Interactive Communication (PIC) in [Kodandaramaiah & Murali 2018](https://doi.org/10.7717/peerj.5495).
-2. Acknowledged for Peer Interactive Communication (PIC) in [Kageyama et al., 2017](https://doi.org/10.1002/evl3.28).
-3. Acknowledged for Peer Interactive Communication (PIC) in [Pal et al., 2024](https://doi.org/10.1101/2024.01.10.574980).
+#1. Acknowledged for Peer Interactive Communication (PIC) in [Kodandaramaiah & Murali 2018](https://doi.org/10.7717/peerj.5495).
+#2. Acknowledged for Peer Interactive Communication (PIC) in [Kageyama et al., 2017](https://doi.org/10.1002/evl3.28).
+#3. Acknowledged for Peer Interactive Communication (PIC) in [Pal et al., 2024](https://doi.org/10.1101/2024.01.10.574980).
