@@ -13,6 +13,6 @@ Glad to see you here. I am a researcher in the school of evolutionary thinking. 
 
 Currently, I work as a Faculty Fellow at [CSIR-CCMB](https://ccmb.res.in), where I lead a [DST-INSPIRE](https://www.online-inspire.gov.in/) funded project to unravel the effect of historical bottleneck on contemporary population structure in a biocontrol agent with an aim to decipher potential strategies to improve the ecological resilence of the biocontrol species.
 
-Previously, during my PhD dissertation period at [IISERTVM](https://iisertvm.ac.in), I have explored the evolutionary histories of different taxonomic groups in relation to past ecological events under the frameworks of molecular phylogenetics and phylogeography.
+Previously, I have spent a year and half at [IISERBPR](https://iiserbpr.ac.in) in exploring different research questions in the beetle, for instance, its reproductive biology, chemical ecology and community-level interaction. Besides, during my PhD dissertation period at [IISERTVM](https://iisertvm.ac.in), I have worked to understand the evolutionary histories of different taxonomic groups in relation to past ecological events under the frameworks of molecular phylogenetics and phylogeography. 
 
 ![Lacones image](/images/lacones.jpg)
