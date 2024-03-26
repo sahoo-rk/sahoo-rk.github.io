@@ -9,7 +9,7 @@ redirect_from:
 
 
 ------
-Glad to see you here. I am a researcher in the school of evolutionary thinking. My research interest spans molecular evolution, population genomics and host-*Wolbachia* interaction. I employ laboratory experiments and high-throughput genomic information to gain insights into trait evolution in insect taxa and decipher the intriguing ecology of the *Wolbachia*-mediated reproductive parasitism in insect hosts. Using comparative genomics, I investigate the ways populations respond to their environment, and how distinct ecological events such as bottleneck, migration and drift influence population resilience.
+Glad to see you here. I am a researcher in the school of evolutionary thinking. My research interest spans molecular evolution, population genomics and host-*Wolbachia* interaction. I employ laboratory experiments and high-throughput genomic information to gain insights into trait evolution in insect taxa and decipher the intriguing ecology of *Wolbachia*-mediated reproductive parasitism in insect hosts. Using comparative genomics, I investigate the ways populations respond to their environment, and how distinct ecological events such as bottleneck, migration and drift influence population resilience.
 
 Currently, I work as a Faculty Fellow at [CSIR-CCMB](https://ccmb.res.in), where I lead a [DST-INSPIRE](https://www.online-inspire.gov.in/) funded project to unravel the effect of historical bottleneck on contemporary population structure in the biocontrol species *Zygogramma bicolorata*. The project is relevant to decipher potential strategies to improve the ecological resilence of the biocontrol agent, and of bottlenecked population in general.
 
