@@ -8,6 +8,13 @@ medium_blog:
   locale: "it-IT"
   fallback_image: "https://cdn-images-1.medium.com/max/1200/1*6_fgYnisCa9V21mymySIvA.png"
 
+inreview_articles:
+  - citation: 'Biswajita Swain, <span class="text-primary font-weight-bold">Sahoo RK</span> (2026) “Effects of cross-generational inbreeding and Wolbachia infection on sex ratio and life-history traits in parthenium beetle”.<br><em>BioRxiv</em>. 723828'
+    doi: 10.64898/2026.05.08.723828
+
+  - citation: '<span class="text-primary font-weight-bold">Sahoo RK</span>, Vasudevan K (2026) “Population genomics of a biocontrol agent: Insights into post-introduction establishment in parthenium beetle”.<br><em>BioRxiv</em>. 729737'
+    doi: 10.64898/2026.06.02.729737.
+
 journal_articles:
   - citation: '<span class="text-primary font-weight-bold">Sahoo RK</span> (2026) "Structurally reorganized Wmk lineage with distinct genomic context and restricted distribution in Wolbachia".<br><em>G3 Genes Genomes Genetics</em>. Advance Access:jkag234'
     doi: 10.1093/g3journal/jkag234
@@ -30,10 +37,10 @@ journal_articles:
   - citation: '<span class="text-primary font-weight-bold">Sahoo RK</span>, Warren AD, Collins SC, Kodandaramaiah U (2017) “Hostplant change and paleoclimatic events explain diversification shifts in skipper butterflies (Family: Hesperiidae)”.<br><em>BMC Evolutionary Biology (now BMC Ecology and Evolution)</em>. 17(1):174'
     doi: 10.1186/s12862-017-1016-x
 
-  - citation: '<span class="text-primary font-weight-bold">Sahoo RK</span>, Warren AD, Wahlberg N, Brower AVZ, Lukhtanov VA, Kodandaramaiah U (2016). “Ten genes and two topologies: an exploration of higher relationships in skipper butterflies”.<br><em>PeerJ</em>. 4:e2653'
+  - citation: '<span class="text-primary font-weight-bold">Sahoo RK</span>, Warren AD, Wahlberg N, Brower AVZ, Lukhtanov VA, Kodandaramaiah U (2016) “Ten genes and two topologies: an exploration of higher relationships in skipper butterflies”.<br><em>PeerJ</em>. 4:e2653'
     doi: 10.7717/peerj.2653
 
-  - citation: '<span class="text-primary font-weight-bold">Sahoo RK</span> (2016). “Why antagonistic traits against cytoplasmic incompatibility are so elusive”.<br><em>Frontiers in Microbiology</em>. 7:392'
+  - citation: '<span class="text-primary font-weight-bold">Sahoo RK</span> (2016) “Why antagonistic traits against cytoplasmic incompatibility are so elusive”.<br><em>Frontiers in Microbiology</em>. 7:392'
     doi: 10.3389/fmicb.2016.00392
 
 
