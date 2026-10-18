@@ -1,0 +1,14 @@
+- name: About
+  link: '#about'
+- name: Experience
+  link: '#experience'
+- name: Education
+  link: '#education'
+- name: Skills
+  link: '#skills'
+- name: Interests
+  link: '#interests'
+- name: Publications
+  link: '#publications'
+- name: Certifications
+  link: '#certifications'
