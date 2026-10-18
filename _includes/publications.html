@@ -1,0 +1,58 @@
+
+<div class="resume-section-content">
+  <h2 class="mb-5">Publications</h2>
+
+  <h3>Peer-reviewed journal articles</h3>
+
+  <ul class="fa-ul">
+    {% for item in site.data.publications.journal_articles %}
+      <li class="text-justify mb-1">
+        <span class="fa-li"><i class="fas fa-book-reader"></i></span>
+        {% if item.url %}
+          {{ item.citation }}, <a href="{{ item.url }}">{{ item.url }}</a>
+        {% elsif item.doi %}
+          {{ item.citation }}, <a href="https://doi.org/{{ item.doi }}">{{ item.doi }}</a>
+        {% else %}
+          {{ item.citation }}
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+
+  <h3>Conference proceedings</h3>
+
+  <ul class="fa-ul">
+    {% for item in site.data.publications.proceedings %}
+      <li class="text-justify mb-1">
+        <span class="fa-li"><i class="fas fa-book-reader"></i></span>
+        {% if item.url %}
+          {{ item.citation }}, <a href="{{ item.url }}">{{ item.url }}</a>
+        {% elsif item.doi %}
+          {{ item.citation }}, <a href="https://doi.org/{{ item.doi }}">{{ item.doi }}</a>
+        {% else %}
+          {{ item.citation }}
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+
+  {% if site.data.publications.medium_blog.enabled %}
+  <h3 class="mt-4">{{ site.data.publications.medium_blog.title }}</h3>
+
+  {% comment %}
+    Using RSS2JSON API to display individual Medium posts
+    Configuration in _data/publications.yml
+    JavaScript implementation in assets/js/medium-widget.js
+    see https://rss2json.com/
+  {% endcomment %}
+
+  <div id="medium-widget"
+       class="row mt-3"
+       data-username="{{ site.data.publications.medium_blog.username }}"
+       data-max-posts="{{ site.data.publications.medium_blog.max_posts }}"
+       data-locale="{{ site.data.publications.medium_blog.locale }}"
+       data-fallback-image="{{ site.data.publications.medium_blog.fallback_image }}">
+  </div>
+  {% endif %}
+
+</div>

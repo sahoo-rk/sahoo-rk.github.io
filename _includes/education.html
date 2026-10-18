@@ -1,0 +1,18 @@
+<div class="resume-section-content">
+  <h2 class="mb-5">Education</h2>
+  {% for item in site.data.education %}
+  <div class="d-flex flex-column flex-md-row justify-content-between{% unless forloop.last %} mb-5{% endunless %}">
+    <div class="flex-grow-1">
+      <h3 class="mb-0">{{ item.institution }}</h3>
+      <div class="subheading mb-3">{{ item.award }}</div>
+      {% if item.description %}
+        <div>{{ item.description }}</div>
+      {% endif %}
+      {% if item.grade %}
+        <p>{{ item.grade }}</p>
+      {% endif %}
+    </div>
+    <div class="flex-shrink-0"><span class="text-primary">{{ item.period }}</span></div>
+  </div>
+  {% endfor %}
+</div>

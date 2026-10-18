@@ -1,0 +1,29 @@
+# those are font-awesome classes
+languages_and_tools:
+  - fa-python
+  - fa-r-project
+  - fa-git
+  - fa-github
+  - fa-docker
+  - fa-centos
+  - fa-ubuntu
+  - fa-bootstrap
+  - fa-html5
+  - fa-css3-alt
+  - fa-js-square
+  - fa-angular
+  - fa-sass
+  - fa-npm
+
+workflows:
+  - HPC
+  - Responsive Design
+  - Continuous integration and continuous delivery
+  - DevOps
+  - Nexflow pipelines and modules development
+  - Nanopore pipelines development
+
+general:
+  - Data analysis and visualization
+  - Scientific programming
+  - Automation scripts
