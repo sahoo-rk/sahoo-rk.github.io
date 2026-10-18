@@ -1,0 +1,96 @@
+---
+layout: default
+title: "Paolo Cozzi CV"
+---
+
+<div class="container-fluid p-0">
+  <!-- About-->
+  <section class="resume-section" id="about">
+    <div class="resume-section-content">
+      <h1 class="mb-0">
+        {{ site.data.user.name }}
+        <span class="text-primary">{{ site.data.user.surname }}</span>
+      </h1>
+      <div class="subheading mb-5">
+        {{ site.data.user.address }} ·
+        <a href="mailto:{{ site.data.user.email }}">{{ site.data.user.email }}</a>
+      </div>
+      <p class="lead mb-5">{{ site.data.user.about }}</p>
+      <div class="social-icons">
+        {% if site.data.user.linkedin %}
+          <a class="social-icon" href="{{ site.data.user.linkedin }}"><i class="fab fa-linkedin-in"></i></a>
+        {% endif %}
+        {% if site.data.user.github %}
+          <a class="social-icon" href="{{ site.data.user.github }}"><i class="fab fa-github"></i></a>
+        {% endif %}
+        {% if site.data.user.twitter %}
+          <a class="social-icon" href="{{ site.data.user.twitter }}"><i class="fab fa-twitter"></i></a>
+        {% endif %}
+        {% if site.data.user.facebook %}
+          <a class="social-icon" href="{{ site.data.user.facebook }}"><i class="fab fa-facebook-f"></i></a>
+        {% endif %}
+        {% if site.data.user.youtube %}
+          <a class="social-icon" href="{{ site.data.user.youtube }}"><i class="fab fa-youtube"></i></a>
+        {% endif %}
+        {% if site.data.user.orc_id %}
+          <a class="social-icon" href="{{ site.data.user.orc_id }}"><i class="fab fa-orcid"></i></a>
+        {% endif %}
+        {% if site.data.user.researchgate %}
+          <a class="social-icon" href="{{ site.data.user.researchgate }}"><i class="fab fa-researchgate"></i></a>
+        {% endif %}
+        {% if site.data.user.medium %}
+          <a class="social-icon" href="{{ site.data.user.medium }}"><i class="fab fa-medium"></i></a>
+        {% endif %}
+      </div>
+    </div>
+  </section>
+
+  <hr class="m-0" />
+
+  <!-- Experience-->
+
+  <section class="resume-section" id="experience">
+    {% include experience.html %}
+  </section>
+
+  <hr class="m-0" />
+
+  <!-- Education-->
+
+  <section class="resume-section" id="education">
+    {% include education.html %}
+  </section>
+
+  <hr class="m-0" />
+
+  <!-- Skills-->
+
+  <section class="resume-section" id="skills">
+    {% include skills.html %}
+  </section>
+
+  <hr class="m-0" />
+
+  <!-- Interests-->
+
+  <section class="resume-section" id="interests">
+    {% include interests.html %}
+  </section>
+
+  <hr class="m-0" />
+
+  <!-- Publications -->
+
+  <section class="resume-section" id="publications">
+    {% include publications.html %}
+  </section>
+
+  <hr class="m-0" />
+
+  <!-- Awards and certifications -->
+
+  <section class="resume-section" id="certifications">
+    {% include certifications.html %}
+  </section>
+
+</div>

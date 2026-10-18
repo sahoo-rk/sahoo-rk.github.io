@@ -1,0 +1,20 @@
+@import "variables";
+// the following will automatically import "bootstrap/scss/bootstrap";
+@import "startbootstrap-resume/src/scss/styles.scss";
+
+// customize some classes
+.bg-primary {
+  background-color: $blue !important;
+}
+
+.text-primary {
+  color: $blue !important;
+}
+
+a {
+  color: $blue;
+}
+
+.social-icons .social-icon:hover {
+  background-color: $blue;
+}
