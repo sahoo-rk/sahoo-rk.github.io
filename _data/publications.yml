@@ -9,7 +9,7 @@ medium_blog:
   fallback_image: "https://cdn-images-1.medium.com/max/1200/1*6_fgYnisCa9V21mymySIvA.png"
 
 inreview_articles:
-  - citation: 'Biswajita Swain, <span class="text-primary font-weight-bold">Sahoo RK</span> (2026) “Effects of cross-generational inbreeding and Wolbachia infection on sex ratio and life-history traits in parthenium beetle”.<br><em>BioRxiv</em>. 723828'
+  - citation: 'Biswajita Swain, <span class="text-primary font-weight-bold">Sahoo RK*</span> (2026) “Effects of cross-generational inbreeding and Wolbachia infection on sex ratio and life-history traits in parthenium beetle”.<br><em>BioRxiv</em>. 723828'
     doi: 10.64898/2026.05.08.723828
 
   - citation: '<span class="text-primary font-weight-bold">Sahoo RK</span>, Vasudevan K (2026) “Population genomics of a biocontrol agent: Insights into post-introduction establishment in parthenium beetle”.<br><em>BioRxiv</em>. 729737'
