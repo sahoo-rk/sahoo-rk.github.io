@@ -9,11 +9,20 @@ medium_blog:
   fallback_image: "https://cdn-images-1.medium.com/max/1200/1*6_fgYnisCa9V21mymySIvA.png"
 
 journal_articles:
-  - citation: Manunza A, <span class="text-primary font-weight-bold">Cozzi P</span>, Boettcher P, Curik I, Looft C, Colli L, Sölkner J, Mészáros G and Stella A (2025) "Estimating the optimal number of samples to determine the effective population size in livestock". Front. Genet. 16:1588986.
-    doi: 10.3389/fgene.2025.1588986
+  - citation: <span class="text-primary font-weight-bold">Sahoo RK</span> (2026) "Structurally reorganized Wmk lineage with distinct genomic context and restricted distribution in *Wolbachia*". 
+    G3 Genes Genomes Genetics Advance Access:jkag234.
+    doi: 10.1093/g3journal/jkag234
 
-  - citation: Ramírez-Díaz J, Bobbo T, Guldbrandtsen B, Schönherz AA, <span class="text-primary font-weight-bold">Cozzi P</span>, Kusza S, Sahana G, Stella A and Manunza A (2025) "Exploring the complex population structure and admixture of four local Hungarian sheep breeds". Front. Genet. 16:1507315.
-    doi: 10.3389/fgene.2025.1507315
+  - citation: <span class="text-primary font-weight-bold">Sahoo RK</span>, Chandrakumaran NK, Vasudevan K (2026) "Genome assembly and protein structure modelling reveal key molecular features of divergent wmk homologs in Wolbachia". Microbiology Spectrum e02893-25.
+    doi: 10.1128/spectrum.02893-25
+    
+  - citation: <span class="text-primary font-weight-bold">Sahoo RK</span>, Manu S, Chandrakumaran NK, Vasudevan K (2023) "Nuclear and mitochondrial genome assemblies of the beetle, Zygogramma bicolorata, a globally important biocontrol agent of invasive weed Parthenium hysterophorus". Genome Biology and Evolution 15(10): evad188.
+    doi: 10.1093/gbe/evad188
+    
+  - citation: Chazot N, Wahlberg N, Freitas AVL, Mitter C, Labandeira C, Sohn J-C, <span class="text-primary font-weight-bold">Sahoo RK</span>, Seraphim N, De Jong R, Heikkila M (2026) "Priors and posteriors in Bayesian timing of divergence analyses: The age of butterflies revisited". Systematic Biology 68(5): 797–813.
+    doi: 10.1093/sysbio/syz002
+    
+
 
   - citation: Capra E, Lazzari B, <span class="text-primary font-weight-bold">Cozzi P</span>, Turri F, Negrini R, Ajmone-Marsan P and Stella A (2025) Defining bovine CpG epigenetic diversity by analyzing RRBS data from sperm of Montbéliarde and Holstein bulls. Front. Cell Dev. Biol. 13:1532711.
     doi: 10.3389/fcell.2025.1532711
