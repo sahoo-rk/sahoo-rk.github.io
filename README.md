@@ -1,5 +1,8 @@
 
-# bunop.github.io - personal site
+# sahoo-rk.github.io - personal site
+
+Below is the original detail of the repository `<bunop.github.io>` from which this GitHub page has been cloned. While the steps to build this page has been detailed below, here is the key steps that will help to build this page within GitHub itself: 1. Clone the repository with all the branches and name it appropriately `<username.github.io>`, 2. In Settings, go to Actions → General, and select `Workflow permissions` to `Read and write permissions`, 3. Go to Settings → Pages and under `Build and deployment`, set Source to `Deploy from a branch`, then, choose `gh-pages` and set folder to `/(root)`.
+
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Build and Deploy](https://img.shields.io/github/actions/workflow/status/bunop/bunop.github.io/github-pages.yml?branch=master&label=Build%20and%20Deploy)](https://github.com/bunop/bunop.github.io/actions/workflows/github-pages.yml)
