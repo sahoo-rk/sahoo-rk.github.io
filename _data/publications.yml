@@ -25,7 +25,7 @@ journal_articles:
   - citation: '<span class="text-primary font-weight-bold">Sahoo RK</span>, Manu S, Chandrakumaran NK, Vasudevan K (2023) "Nuclear and mitochondrial genome assemblies of the beetle, Zygogramma bicolorata, a globally important biocontrol agent of invasive weed Parthenium hysterophorus".<br><em>Genome Biology and Evolution</em>. 15(10):evad188'
     doi: 10.1093/gbe/evad188
 
-  - citation: 'Chazot N, Wahlberg N, Freitas AVL, Mitter C, Labandeira C, Sohn J-C, <span class="text-primary font-weight-bold">Sahoo RK</span>, Seraphim N, De Jong R, Heikkila M (2026) "Priors and posteriors in Bayesian timing of divergence analyses: The age of butterflies revisited".<br><em>Systematic Biology</em>. 68(5):797–813'
+  - citation: 'Chazot N, Wahlberg N, Freitas AVL, Mitter C, Labandeira C, Sohn J-C, <span class="text-primary font-weight-bold">Sahoo RK</span>, Seraphim N, De Jong R, Heikkila M (2019) "Priors and posteriors in Bayesian timing of divergence analyses: The age of butterflies revisited".<br><em>Systematic Biology</em>. 68(5):797–813'
     doi: 10.1093/sysbio/syz002
 
   - citation: '<span class="text-primary font-weight-bold">Sahoo RK</span>, Kodandaramaiah U (2018) “Local host plant abundance explains negative association between larval performance and female oviposition preference in a butterfly”.<br><em>Biological Journal of the Linnean Society</em>. 125:333–343'
@@ -33,7 +33,7 @@ journal_articles:
 
   - citation: '<span class="text-primary font-weight-bold">Sahoo RK</span>, Lohman DJ, Wahlberg N, Müller CJ, Brattström O, Collins SC, Peggie D, Aduse-Poku K, Kodandaramaiah U (2018) “Evolution of Hypolimnas  butterflies (Nymphalidae): Out-of-Africa origin and Wolbachia-mediated introgression”.<br><em>Molecular Phylogenetics and Evolution</em>. 123:50–58'
     doi: 10.1016/j.ympev.2018.02.001
-
+  
   - citation: '<span class="text-primary font-weight-bold">Sahoo RK</span>, Warren AD, Collins SC, Kodandaramaiah U (2017) “Hostplant change and paleoclimatic events explain diversification shifts in skipper butterflies (Family: Hesperiidae)”.<br><em>BMC Evolutionary Biology (now BMC Ecology and Evolution)</em>. 17(1):174'
     doi: 10.1186/s12862-017-1016-x
 
@@ -44,38 +44,13 @@ journal_articles:
     doi: 10.3389/fmicb.2016.00392
 
 
-proceedings:
-  - citation: Biscarini Filippo; <span class="text-primary font-weight-bold">Cozzi Paolo</span>; RamirezDíaz Johanna; Stella Alessandra; Manunza Arianna, "Detection of heterozygosity-rich regions (HRRs) in the genome of domestic ruminants&colon; which parameters for which breed" in Proceedings of 25th Congresso ASPA (Associazione per la Scienza e le Produzioni Animali), Monopoli, Italy, 13-16 June 2023
-
-  - citation: Biscarini, F; Manunza, A; <span class="text-primary font-weight-bold">Cozzi, P</span>; Stella, A, "Common heterozygosity-rich regions across the genomes of commercial and local goat breeds" in Proceedings of 12th World Congress on Genetics Applied to Livestock Production (WCGALP), Rotterdam, The Netherlands, 3-8 July 2022
-
-  - citation: <span class="text-primary font-weight-bold">P. Cozzi</span>, J. Fan, A. Sokolov, O. Selmoni, E. Vajana, S. Joost, E. Groeneveld, P. Flicek, P. Harrison, A. Stella & the IMAGE Consortium "The Innovative Management of Animal Genetic Resources (IMAGE) unified data portal to integrate and represent European gene bank data" in Proceedings of 70th EAAP Annual Meeting, Ghent, Belgium, 26-30 August 2019
-
-  - citation: J. Fan, <span class="text-primary font-weight-bold">P. Cozzi</span>, A Sokolov, O Selmoni, E. Vajana, S. Joost, E. Groeneveld, G. Cochrane, P. Flicek, P. W. Harrison, A. Stella & the IMAGE Consortium, "A metadata ruleset solution for the Innovative Management of Animal Genetic Resources (IMAGE) unification of European Gene Bank Data" in Proceedings of International Society for Animal Genetics Conference, Lleida, Spain, 7-12 July 2019
-
-  - citation: F. Biscarini, B. Castiglioni, A. Stella, <span class="text-primary font-weight-bold">P. Cozzi</span>, A. Ianni, G. Masetti, P. Cremonesi, "Upgrading the pipeline to analyse 16S rRNA-gene sequencing data" in Proceedings of 23° Congresso dell'Associazione per la Scienza e le Produzioni Animali (ASPA), Sorrento, Italy, 11-13 June 2019
-
-  - citation: 'J. Fan, <span class="text-primary font-weight-bold">P. Cozzi</span>, E. Vajana, E. Groeneveld, O. Selmoni, A. Stella, P. Harrison, P. Flicek, "Innovative Management of Animal Genetic Resources (IMAGE): Unifying European Gene Bank data" in Proceedings of Livestock Genomics Cambridge conference, Cambridge, UK, 21-22 September 2018'
-
-  - citation: A. Volante, A. Tondelli, F. Biscarini, F. Desiderio, R. Perrini, <span class="text-primary font-weight-bold">P. Cozzi</span>, P. Riccardi, G. Orasen, C. Biselli, A. Vattari, D. Cavalluzzo, S. McCouch, P. Abbruscato, R. Greco, P. Piffanelli, L. Cattivelli, G. Valè, "GWA studies for rice adaptation to alternate wetting and drying water management system" in Proceedings of the Joint Congress SIBV-SIGA, Milano, Italy – 8/11 September, 2015
-
-  - citation: 'E. Ronchieri, D. Cesini, D. D&#39Agostino, V. Ciaschini, G. Dalla Torre, <span class="text-primary font-weight-bold">P. Cozzi</span>, D. Salomoni, A. Clematis, L. Milanesi, I. Merelli, "The WNoDeS Cloud virtualization framework: a macromolecular surface analysis application case study" in Proceedings of 22nd Euromicro International Conference on Parallel, Distributed and network-based Processing (PDP), Turin, Italy, 12-14 February 2014'
-
-  - citation: 'E. Lumini, S. Ghignone, P. Abbruscato, B. Lazzari, <span class="text-primary font-weight-bold">P. Cozzi</span>, M. Vallino, E. Lupotto, P. Piffanelli, P. Bonfante, "Multiple molecular approaches reveal how bacterial and fungal communities thrive in the rice rhizosphere" in Proceedings of the International Workshop: "Crop Improvement in a Changing Environment: the RISINNOVA Project for sustainable rice production in Italy", Venezia , Italy -29/30 October 2012'
-
-  - citation: <span class="text-primary font-weight-bold">P. Cozzi</span>, L. Milanesi and G. Bernardi, "Segmenting the human genome into isochores" in Proceedings of Evolution in the time of Genomics, Venezia, Italy. 7-9 May 2012
-
-  - citation: <span class="text-primary font-weight-bold">P. Cozzi</span>, L. Milanesi and G. Bernardi, "Segmenting the human genome" in Proceedings of Molecular Evolution in the Genomic Era, Roma, Italy. 29 September – 1 October 2011.
-
-  - citation: <span class="text-primary font-weight-bold">P. Cozzi</span>, I. Merelli, D. D’Agostino and L. Milanesi, "A parallel implementation of Genetic Algorithms for parameters estimation of Molecular Surfaces similarity analysis", in Proceedings of BITS 2010, Bari, Italy. 14-16 April, 2010.
-
-  - citation: D. D’Agostino, A. Clematis, I. Merelli, <span class="text-primary font-weight-bold">P. Cozzi</span>, L. Milanesi, "A Parallel Algorithm for Molecular Surface Matching Through Image representation", in Procedings of Parallel, Distributed and Network-Based Processing (PDP), 17-19 Feb. 2010.
-
-  - citation: <span class="text-primary font-weight-bold">P. Cozzi</span>, F. Viti, I. Merelli and L. Milanesi, "Exploitation of a 3D-oriented ontology for choosing the representative proteins in protein surfaces comparison.", in Proceedings of FOCUS K3D Conference on Semantic 3D Media and Content, INRIA Sophia Antipolis %3A Méditerranée, France. 11-12 February 2010.
-  - citation: 'A. Calabria, D. Di Pasquale, G. Trombetti, <span class="text-primary font-weight-bold">P. Cozzi</span>, A. Orro, M, Gnocchi, L. Milanesi, "Genome Wide Linkage analysis and Systems Knowledge: an Integrated Web Framework for Distributed Excecution and Results Annotation", in: Proceedings of Sysbiohealth 2008, Bologna, 24-25 November 2008'
-
-  - citation: '<span class="text-primary font-weight-bold">P. Cozzi</span>, I. Merelli, L. Milanesi, A Visualization ToolKit based application for representing macromolecular surfaces., in: Proceedings of Computational Intelligence Methods For Bioinformatics And Biostatistic, Vietri sul Mare (Salerno), 3-4 October 2008.'
-
-  - citation: 'I. Merelli, <span class="text-primary font-weight-bold">P. Cozzi</span>, L. Milanesi, "A reference database for protein surface comparison using grid technology", in: Proceedings of NETTAB, Santa Margherita di Pula, 10-13 July 2006.'
-
-  - citation: '<span class="text-primary font-weight-bold">P. Cozzi</span>, I. Merelli, L. Milanesi, Creazione di un database di supporto per analisi delle superfici proteiche tramite un approccio di calcolo ad alte prestazioni., in: Proceedings of AITIM, Torino, 11-13 December 2006.'
+comments:
+  - citation: '<span class="text-primary font-weight-bold">Sahoo RK</span>, Kodandaramaiah U (2017) “Opportunity for diversification: insights from species accumulation pattern in skipper butterflies”.<br><em>BMC Series Blog</em>'
+    url: https://blogs.biomedcentral.com/bmcseriesblog/2017/08/07/opportunity-for-diversification-insights-from-species-accumulation-pattern-in-skipper-butterflies/
+  
+  - citation: '<span class="text-primary font-weight-bold">Sahoo RK</span> (2017) “Digest: Ancient co-dispersals and host shifts in passerine bird – feather mite symbiosis”.<br><em>Evolution</em>. 71(10):2539–2540'
+    url: https://onlinelibrary.wiley.com/doi/10.1111/evo.13330
+  
+  - citation: '<span class="text-primary font-weight-bold">Sahoo RK</span>. “eLetter: Gradient in predation risk: indicator of a feedback loop”.<br><em>Science</em>'
+    url: https://www.science.org/doi/10.1126/science.aaj1631#elettersSection
+  
