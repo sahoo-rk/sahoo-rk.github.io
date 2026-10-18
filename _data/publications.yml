@@ -9,7 +9,7 @@ medium_blog:
   fallback_image: "https://cdn-images-1.medium.com/max/1200/1*6_fgYnisCa9V21mymySIvA.png"
 
 journal_articles:
-  - citation: <span class="text-primary font-weight-bold">Sahoo RK</span> (2026) "Structurally reorganized Wmk lineage with distinct genomic context and restricted distribution in *Wolbachia*". G3 Genes Genomes Genetics Advance Access: jkag234.
+  - citation: <span class="text-primary font-weight-bold">Sahoo RK</span> (2026) "Structurally reorganized Wmk lineage with distinct genomic context and restricted distribution in Wolbachia". G3 Genes Genomes Genetics Advance Access: jkag234.
     doi: 10.1093/g3journal/jkag234
 
   - citation: <span class="text-primary font-weight-bold">Sahoo RK</span>, Chandrakumaran NK, Vasudevan K (2026) "Genome assembly and protein structure modelling reveal key molecular features of divergent wmk homologs in Wolbachia". Microbiology Spectrum e02893-25.
