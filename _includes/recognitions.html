@@ -4,7 +4,7 @@
   
   <h3>Grant & Fellowship</h3>
   <ul class="fa-ul mb-0">
-    {% for item in site.data.grant & fellowship %}
+    {% for item in site.data.grant_fellowship %}
       <li class="mb-1">
         <span class="fa-li"><i class="fas fa-graduation-cap"></i></span>
         {{ item.name }}, {{ item.period }}<br>
@@ -21,7 +21,7 @@
 
   <h3>Award & Honors</h3>
   <ul class="fa-ul mb-0">
-    {% for item in site.data.award & honors %}
+    {% for item in site.data.award_honors %}
       <li class="mb-1">
         <span class="fa-li"><i class="fas fa-graduation-cap"></i></span>
         {{ item.name }}, {{ item.period }}<br>
