@@ -1,1 +1,41 @@
 
+
+<div class="resume-section-content">
+  <h2 class="mb-5">Professional activities</h2>
+  
+  <h3>Teaching & Mentoring</h3>
+  
+  <ul class="fa-ul">
+    {% for item in site.data.activities.teaching_mentoring %}
+      <li class="text-justify mb-1">
+        <span class="fa-li"><i class="fas fa-graduation-cap"></i></span>
+        {{ item.name }}, {{ item.period }}<br>
+        {% if item.license_id %}
+          {{ item.emitter }}, <a href="{{ item.license_url }}{{ item.license_id }}/">{{ item.license_id }}</a>
+        {% elsif item.license_file %}
+          {{ item.emitter }}, <a href="{{ item.license_file }}"> download certificate <span class="fas fa-download"></span></a>
+        {% else %}
+          {{ item.emitter }}
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+
+  <h3>Award & Honors</h3>
+  
+  <ul class="fa-ul mb-0">
+    {% for item in site.data.activities.trainings %}
+      <li class="mb-1">
+        <span class="fa-li"><i class="fas fa-graduation-cap"></i></span>
+        {{ item.name }}, {{ item.period }}<br>
+        {% if item.license_id %}
+          {{ item.emitter }}, <a href="{{ item.license_url }}{{ item.license_id }}/">{{ item.license_id }}</a>
+        {% elsif item.license_file %}
+          {{ item.emitter }}, <a href="{{ item.license_file }}"> download certificate <span class="fas fa-download"></span></a>
+        {% else %}
+          {{ item.emitter }}
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+</div>
