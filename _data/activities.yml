@@ -8,11 +8,83 @@ teaching_mentoring:
     period: 2012
  
 trainings:
-  - name: Runners-up for poster presentation
-    emitter: 9th International Wolbachia Conference, Australia
-    period: 2016
-  
-  - name: Foreign Travel Grant
-    emitter: Council of Scientific and Industrial Research, India
+  - name: Workshop on Integrating AI in advancing Research and Educational Practices
+    emitter: EduLeviate Pvt. Ltd, India
     period: 2025
   
+  - name: EMBO – Workshop on Computational Structural Biology
+    emitter: EMBL Heidelberg, Germany
+    period: 2025
+
+  - name: Workshop on Gene Editing
+    emitter: AIC-CCMB and ThermoFisher Scientific, Hyderabad, India
+    period: 2025
+
+  - name: Generative AI Mastermind
+    emitter: Outskill, India
+    period: 2025
+
+  - name: Workshop on ICECloud - Integrated Computing Environment for Life Sciences
+    emitter: C-DAC and AIC-CCMB, Hyderabad, India
+    period: 2025
+
+  - name: Second International Conference on Biological Control (2ICBC)
+    emitter: Bengaluru, India
+    period: 2025
+    
+  - name: Workshop on Guidelines for Novel Healthcare Solutions (Regulatory compliance - Day One)
+    emitter: AIC-CCMB, Hyderabad, India
+    period: 2025
+
+  - name: EMBO – Practical course on Population Genomics
+    emitter: Naples, Italy
+    period: 2025
+
+  - name: 11th Hands-on Training on Genomics and Transcriptomics
+    emitter: The University of Trans-disciplinary Health Sciences and Technology (TDU), Bengaluru, India
+    period: 2019
+    
+  - name: Bioinformatics for Metagenome Data Analysis
+    emitter: ICAR - Indian Institute of Spices Research, Kerala, India
+    period: 2019
+
+  - name: International Conference on Microbiome Research
+    emitter: DBT - National Centre for Cell Science (NCCS), Pune, India
+    period: 2018
+
+  - name: Analysis of Next Generation Sequencing Data (EMBL-EBI-IBAB)
+    emitter: Institute of Bioinformatics and Applied Biology (IBAB), Bangalore, India
+    period: 2018
+  
+  - name: Third Bangalore School on Population Genetics and Evolution
+    emitter: International Centre for Theoretical Sciences (ICTS), Bangalore, India
+    period: 2018
+
+  - name: DST-SERB School on Chemical Ecology
+    emitter: National Centre for Biological Sciences (NCBS), Bangalore, India
+    period: 2017
+
+  - name: Introduction to data visualization and exploration in R
+    emitter: IISER Thiruvananthapuram, Kerala, India
+    period: 2015
+
+  - name: Workshop on Molecular Phylogenetics
+    emitter: Indian Institute of Science, Bangalore, India
+    period: 2014
+
+  - name: International Conference on Green Energy Technologies
+    emitter: Pondicherry University, Puducherry, India
+    period: 2010
+
+  - name: National Seminar on Role of Biotechnology in Medicinal Plants
+    emitter: Department of Botany and Biotechnology, BJB (A) College, Bhubaneswar, India
+    period: 2007
+    
+  - name: Jagadish Bose National Science Talent Search (JBNSTS) workshop on Biotechnology in 21st century
+    emitter: Held at BJB (A) College, Bhubaneswar, India
+    period: 2007
+
+  - name: Workshop on the Exposure of frontline research in Science and Technology
+    emitter: Jagadish Bose National Science Talent Search (JBNSTS), Kolkata, India
+    period: 2007
+
