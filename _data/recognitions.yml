@@ -1,35 +1,69 @@
 
-- name: INSPIRE Faculty Fellowship Award
-  emitter: Department of Science and Technology (DST), India
-  period: 2021
+grant & fellowship:
+  - name: INSPIRE Faculty Fellowship
+    emitter: Department of Science and Technology (DST), India
+    period: 2021
 
-- name: Staff Excellence Award
-  emitter: Indian Institute of Science Education and Research (IISER) Berhampur, India
-  period: 2021
+  - name: Junior Research Fellowship
+    emitter: Council of Scientific and Industrial Research (CSIR), India
+    period: 2012
+ 
+Award & Honors:
+  - name: Runners-up for poster presentation
+    emitter: 9th International Wolbachia Conference, Australia
+    period: 2016
+  
+  - name: Foreign Travel Grant
+    emitter: Council of Scientific and Industrial Research, India
+    period: 2025
+  
+  - name: Registration Fee Support
+    emitter: 12th Wolbachia Conference, Okinawa, Japan
+    period: 2025
+  
+  - name: Travel and Registration Support
+    emitter: EMBO course on Population Genomics. Italy
+    period: 2024
+  
+  - name: Staff Excellence Award
+    emitter: Indian Institute of Science Education and Research (IISER) Berhampur, India
+    period: 2021
+  
+  - name: International Travel Support
+    emitter: Department of Science & Technology, India
+    period: 2017
+  
+  - name: 1st rank in overall performance
+    emitter: DST–SERB School on Chemical Ecology at NCBS, Bangalore
+    period: 2017
+  
+  - name: Runners-up for the poster presentation
+    emitter: 9th International Wolbachia Conference, Australia
+    period: 2016
+  
+  - name: Travel grant for Ph.D. student
+    emitter: Indian Institute of Science Education and Research (IISER) Thiruvananthapuram, India
+    period: 2016
+  
+  - name: Summer Research Fellowship Programme
+    emitter: IAS-INSA-NASI, India
+    period: 2010
+  
+  - name: Scholarship for 1st rank holder in P.G. Entrance Exam
+    emitter: Pondicherry University, India
+    period: 2009
+  
+  - name: 1st rank in Annual Quiz Competition
+    emitter: Department of Biotechnology, BJB (A) College, Bhubaneswar, India
+    period: 2008
+  
+  - name: Jury-commended Award in Orissa Biotech Olympiad
+    emitter: Trident Academy of Creative Technology, Bhubaneswar, India
+    period: 2006
 
-- name: Top rank in overall performance
-  emitter: DST–SERB School on Chemical Ecology at NCBS, Bangalore
-  period: 2017
-
-- name: Runners-up for poster presentation
-  emitter: 9th International Wolbachia Conference, Australia
-  period: 2016
-
-- name: Junior Research Fellowship Award
-  emitter: Council of Scientific and Industrial Research (CSIR), India
-  period: 2012
-
-- name: Top rank in Annual Quiz Competition
-  emitter: Department of Biotechnology, BJB (A) College, Bhubaneswar, India
-  period: 2008
-
-- name: Jury-commended Award in Orissa Biotech Olympiad
-  emitter: Trident Academy of Creative Technology, Bhubaneswar, India
-  period: 2006
-
-- name: Magistrate Recognition Award for being among the top positions in High School Certificate Examination
-  emitter: Jagatasinghpur district, Odisha, India
-  period: 2002
+  - name: Magistrate Recognition Award for being among the top positions in High School Certificate Examination
+    emitter: Jagatasinghpur district, Odisha, India
+    period: 2002
 
 #- name: Diventa uno sviluppatore front end con JavaScript e jQuery
 #  emitter: Udemy Verified Certificate
