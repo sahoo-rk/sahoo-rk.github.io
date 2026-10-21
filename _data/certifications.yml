@@ -1,66 +1,49 @@
 
-- name: INSPIRE Faculty Fellowship
-  emitter: Department of Science and Technology, India
-  #license_id: UC-de875ae7-2e85-488d-9a05-c9bbb2ec0c43
-  #license_url: https://www.udemy.com/certificate/
+- name: INSPIRE Faculty Fellowship Award
+  emitter: Department of Science and Technology (DST), India
   period: 2021
 
-- name: Angular - The Complete Guide (2020 Edition)
-  emitter: Udemy Verified Certificate
-  license_id: UC-3fe463ef-9339-4f39-9c44-0b77c82e9bec
-  license_url: https://www.udemy.com/certificate/
-  period: May 2020
+- name: Staff Excellence Award
+  emitter: Indian Institute of Science Education and Research (IISER) Berhampur, India
+  period: 2021
 
-- name: "ABG02x: Evaluating Animal Breeding Programmes"
-  emitter: edX Verified Certificate
-  license_id: 0d412799e73e4e7798f246265106d840
-  license_url: https://courses.edx.org/certificates/
-  period: April 2020
+- name: Top rank in overall performance
+  emitter: DST–SERB School on Chemical Ecology at NCBS, Bangalore
+  period: 2017
 
-- name: Diventa uno sviluppatore front end con JavaScript e jQuery
-  emitter: Udemy Verified Certificate
-  license_id: UC-efae5609-e30e-41f4-89f7-511e8afc18cc
-  license_url: https://www.udemy.com/certificate/
-  period: April 2020
+- name: Runners-up for poster presentation
+  emitter: 9th International Wolbachia Conference, Australia
+  period: 2016
 
-- name: "Responsive Website Basics: Code with HTML, CSS, and JavaScript"
-  emitter: Coursera Course Certificates
-  license_id: MHJG2JVGG6YY
-  license_url:  https://www.coursera.org/account/accomplishments/verify/
-  period: May 2016
+- name: Top rank in Annual Quiz Competition
+  emitter: Department of Biotechnology, BJB (A) College, Bhubaneswar, India
+  period: 2008
 
-- name: Cloud Computing Specialization
-  emitter: Coursera Course Certificates
-  license_id: 92VREZAXFDWH
-  license_url:  https://www.coursera.org/account/accomplishments/verify/
-  period: Mar 2016
+- name: Jury-commended Award in Orissa Biotech Olympiad
+  emitter: Trident Academy of Creative Technology, Bhubaneswar, India
+  period: 2006
 
-- name: Getting and Cleaning Data
-  emitter: Coursera Verified Certificates
-  license_id: VVGHA5CX55
-  license_url:  https://www.coursera.org/account/accomplishments/verify/
-  period: Jun 2015
+- name: Magistrate Recognition Award for being among the top positions in High School Certificate Examination
+  emitter: Jagatasinghpur district, Odisha, India
+  period: 2002
 
-- name: The Data Scientist’s Toolbox
-  emitter: Coursera Verified Certificates
-  license_id: CAPN392S8M
-  license_url: https://www.coursera.org/account/accomplishments/verify/
-  period: Dec 2014
+#- name: Diventa uno sviluppatore front end con JavaScript e jQuery
+#  emitter: Udemy Verified Certificate
+#  license_id: UC-efae5609-e30e-41f4-89f7-511e8afc18cc
+#  license_url: https://www.udemy.com/certificate/
+#  period: April 2020
 
-- name: Rat Community Annotation Workshop
-  emitter: Hinxton, England
-  period: 4-6 March 2013
+#- name: "Responsive Website Basics: Code with HTML, CSS, and JavaScript"
+#  emitter: Coursera Course Certificates
+#  license_id: MHJG2JVGG6YY
+#  license_url:  https://www.coursera.org/account/accomplishments/verify/
+#  period: May 2016
 
-- name: INNOVAGEN Winter School
-  emitter: Università Cattolica del Sacro Cuore di Piacenza
-  period: 21 January 2013 - 1 February 2013
-  license_file: assets/certificates/A06_INNOVAGEN_certificato_frequenza.pdf
+#- name: Biomed Grid School
+#  emitter: Varenna, Italy
+#  period: 12-16 May 2008
 
-- name: Biomed Grid School
-  emitter: Varenna, Italy
-  period: 12-16 May 2008
-
-- name: Biomed GRID School
-  emitter: Varenna, Italy
-  period: 14-19 May 2007
-  license_file: assets/certificates/A01_GRID_certificato_frequenza.pdf
+#- name: Biomed GRID School
+#  emitter: Varenna, Italy
+#  period: 14-19 May 2007
+#  license_file: assets/certificates/A01_GRID_certificato_frequenza.pdf
