@@ -1,1 +1,12 @@
+talks:
+  - citation: 'Divergent male killing Wmk protein in a novel Wolbachia from an agriculturally important beetle species.<br><em>Conference on OMICS Technologies in Agriculture and Human Health. iGNA-Hyderabad, India.</em>'
+    
+  - citation: '<span class="text-primary font-weight-bold">Sahoo RK</span>, Vasudevan K (2026) “Population genomics of a biocontrol agent: Insights into post-introduction establishment in parthenium beetle”.<br><em>BioRxiv</em>. 729737'
+    doi: 10.64898/2026.06.02.729737.
 
+posters:
+  - citation: '<span class="text-primary font-weight-bold">Sahoo RK</span> (2026) "Structurally reorganized Wmk lineage with distinct genomic context and restricted distribution in Wolbachia".<br><em>G3 Genes Genomes Genetics</em>. Advance Access:jkag234'
+    doi: 10.1093/g3journal/jkag234
+
+  - citation: '<span class="text-primary font-weight-bold">Sahoo RK</span>, Chandrakumaran NK, Vasudevan K (2026) "Genome assembly and protein structure modelling reveal key molecular features of divergent wmk homologs in Wolbachia".<br><em>Microbiology Spectrum</em>. e02893:25'
+    doi: 10.1128/spectrum.02893-25
