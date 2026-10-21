@@ -9,10 +9,6 @@ grant_fellowship:
     period: 2012
  
 award_honors:
-  - name: Runners-up for poster presentation
-    emitter: 9th International Wolbachia Conference, Australia
-    period: 2016
-  
   - name: Foreign Travel Grant
     emitter: Council of Scientific and Industrial Research, India
     period: 2025
