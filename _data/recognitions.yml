@@ -1,5 +1,5 @@
 
-grant & fellowship:
+grant_fellowship:
   - name: INSPIRE Faculty Fellowship
     emitter: Department of Science and Technology (DST), India
     period: 2021
@@ -8,7 +8,7 @@ grant & fellowship:
     emitter: Council of Scientific and Industrial Research (CSIR), India
     period: 2012
  
-Award & Honors:
+award_honors:
   - name: Runners-up for poster presentation
     emitter: 9th International Wolbachia Conference, Australia
     period: 2016
