@@ -1,11 +1,27 @@
 teaching_mentoring:
-  - name: Guest lecture on Basics of Population Ecology
+  - name: Guest lectures on Basics of Population Ecology
     emitter: CSIR-Centre for Cellular and Molecular Biology (CCMB), Hyderabad, India
-    period: 2023-2024
+    period: '2023-2024'
 
-  - name: Junior Research Fellowship
-    emitter: Council of Scientific and Industrial Research (CSIR), India
-    period: 2012
+  - name: Mentor to an external MSc student through the Dissertation Research Training Program
+    emitter: CSIR-Centre for Cellular and Molecular Biology (CCMB), Hyderabad, India
+    period: 2022
+
+  - name: Instructor, Lecture series on the Fundamentals of R-programming and Basics of Phylogenetics
+    emitter: IISER Berhampur, Odisha, India
+    period: 2020
+
+  - name: Guest lectures on Biogeography and Ecological Interactions
+    emitter: IISER Berhampur, Odisha, India
+    period: '2019-2020'
+
+  - name: Teaching assistant in the course on Ecology
+    emitter: IISER Berhampur, Odisha, India
+    period: 2019
+
+  - name: Teaching assistant in the course on Ecology and Evolution, 2014-2015
+    emitter: IISER Thiruvananthapuram, Keralam, india
+    period: 2014-2015
  
 trainings:
   - name: Workshop on Integrating AI in advancing Research and Educational Practices
