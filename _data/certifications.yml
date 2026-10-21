@@ -1,74 +1,9 @@
 
-- name: Generative AI for Data Engineering and Data Professionals
-  emitter: Udemy Verified Certificate
-  license_id: UC-de875ae7-2e85-488d-9a05-c9bbb2ec0c43
-  license_url: https://www.udemy.com/certificate/
-  period: January 2025
-
-- name: Become a Probability & Statistics Master
-  emitter: Udemy Verified Certificate
-  license_id: UC-ac2b16ec-6a61-4ee3-a4c7-375b3b8d91fa
-  license_url: https://www.udemy.com/certificate/
-  period: December 2023
-
-- name: Python for Machine Learning & Data Science Masterclass
-  emitter: Udemy Verified Certificate
-  license_id: UC-e27cfa60-d67c-487b-8112-3ed5479aff7d
-  license_url: https://www.udemy.com/certificate/
-  period: February 2023
-
-- name: Angular (Full App) with Angular Material, Angularfire & NgRx
-  emitter: Udemy Verified Certificate
-  license_id: UC-832d72b6-9aaf-40d6-be45-5f770493c8c2
-  license_url: https://www.udemy.com/certificate/
-  period: July 2021
-
-- name: The Use of GIS in animal disease response
-  emitter: <a href="https://learning.izsvenezie.it">learning.izsvenezie.it</a>
-  license_file: assets/certificates/izsvenezie.pdf
-  period: May 2021
-
-- name: MongoDB - The Complete Developer's Guide 2021
-  emitter: Udemy Verified Certificate
-  license_id: UC-1d26579c-5fe2-429a-aa6d-9ca2f130d315
-  license_url: https://www.udemy.com/certificate/
-  period: March 2021
-
-- name: Digital Photography Courses for Beginners - DSLR Photography
-  emitter: Udemy Verified Certificate
-  license_id: UC-452ae6c6-d67d-4aba-a9ca-0a37c30e8b91
-  license_url: https://www.udemy.com/certificate/
-  period: October 2020
-
-- name: Infrastructure Automation With Terraform
-  emitter: Udemy Verified Certificate
-  license_id: UC-2411ef88-1a43-412a-b48b-edc1c16a8b5d
-  license_url: https://www.udemy.com/certificate/
-  period: October 2020
-
-- name: Display and analyze GIS data on the web with Leaflet
-  emitter: Udemy Verified Certificate
-  license_id: UC-0d5a2c36-cdee-46f5-8af2-ed23cc599dbc
-  license_url: https://www.udemy.com/certificate/
-  period: July 2020
-
-- name: Automating QGIS 3.xx with Python
-  emitter: Udemy Verified Certificate
-  license_id: UC-2f9c78e6-614f-4c89-9509-a2ddc2d1f803
-  license_url: https://www.udemy.com/certificate/
-  period: June 2020
-
-- name: Build a Python REST API with the Django Rest Framework
-  emitter: Udemy Verified Certificate
-  license_id: UC-215c35fb-7e7c-4d46-830c-599bb2db3707
-  license_url: https://www.udemy.com/certificate/
-  period: June 2020
-
-- name: Introduction to Spatial Databases with PostGIS and QGIS 3
-  emitter: Udemy Verified Certificate
-  license_id: UC-c3b0605c-bd38-4842-b1aa-81a6f7a5730f
-  license_url: https://www.udemy.com/certificate/
-  period: June 2020
+- name: INSPIRE Faculty Fellowship
+  emitter: Department of Science and Technology, India
+  #license_id: UC-de875ae7-2e85-488d-9a05-c9bbb2ec0c43
+  #license_url: https://www.udemy.com/certificate/
+  period: 2021
 
 - name: Angular - The Complete Guide (2020 Edition)
   emitter: Udemy Verified Certificate
@@ -88,90 +23,6 @@
   license_url: https://www.udemy.com/certificate/
   period: April 2020
 
-- name: "ABG01x: Genetic Models for Animal Breeding"
-  emitter: edX Verified Certificate
-  license_id: 6b4c77a5171643178d880bc47bb2c83f
-  license_url: https://courses.edx.org/certificates/
-  period: March 2020
-
-- name: Bootstrap 4 From Scratch With 5 Projects
-  emitter: Udemy Verified Certificate
-  license_id: UC-63f3fbc7-27a7-491a-95e4-23f8b61f1f49
-  license_url: https://www.udemy.com/certificate/
-  period: March 2020
-
-- name: Python Parallel Programming Solutions
-  emitter: Udemy Verified Certificate
-  license_id: UC-TH91FCEM
-  license_url: https://www.udemy.com/certificate/
-  period: January 2020
-
-- name: Iterators in Functional Programming with Python
-  emitter: Udemy Verified Certificate
-  license_id: UC-W0YZIIS5
-  license_url: https://www.udemy.com/certificate/
-  period: November 2019
-
-- name: Functional Programming in Python
-  emitter: Udemy Verified Certificate
-  license_id: UC-KSEK55CS
-  license_url: https://www.udemy.com/certificate/
-  period: October 2019
-
-- name: Mastering Django Part 1 - AJAX, Class Based Views, Forms
-  emitter: Udemy Verified Certificate
-  license_id: UC-F1O2LWIO
-  license_url: https://www.udemy.com/certificate/
-  period: October 2019
-
-- name: UML and Object-Oriented Design Foundations
-  emitter: Udemy Verified Certificate
-  license_id: UC-L0RZYKB6
-  license_url: https://www.udemy.com/certificate/
-  period: September 2019
-
-- name: "Blockchain A-Z™: Learn How To Build Your First Blockchain"
-  emitter: Udemy Verified Certificate
-  license_id: UC-F1TZZX79
-  license_url: https://www.udemy.com/certificate/
-  period: July 2019
-
-- name: Diventare Web Designer da zero. Il corso completo
-  emitter: Udemy Verified Certificate
-  license_id: UC-VTTOSIEP
-  license_url: https://www.udemy.com/certificate/
-  period: Apr 2019
-
-- name: Mastering Ansible
-  emitter: Udemy Verified Certificate
-  license_id: UC-YO99HMA6
-  license_url: https://www.udemy.com/certificate/
-  period: Dec 2018
-
-- name: Django by Example
-  emitter: Udemy Verified Certificate
-  license_id: UC-69OXQO43
-  license_url: https://www.udemy.com/certificate/
-  period: Nov 2018
-
-- name: "Django 2 & Python | The Ultimate Web Development Bootcamp"
-  emitter: Udemy Verified Certificate
-  license_id: UC-P2VZCSWZ
-  license_url: https://www.udemy.com/certificate/
-  period: Sep 2018
-
-- name: Python and Django Full Stack Web Developer Bootcamp
-  emitter: Udemy Verified Certificate
-  license_id: UC-UYK0MMJW
-  license_url: https://www.udemy.com/certificate/
-  period: Jul 2018
-
-- name: Responsive Web Design
-  emitter: Coursera Course Certificates
-  license_id: S2DVLBMKQHH4
-  license_url:  https://www.coursera.org/account/accomplishments/verify/
-  period: Jun 2016
-
 - name: "Responsive Website Basics: Code with HTML, CSS, and JavaScript"
   emitter: Coursera Course Certificates
   license_id: MHJG2JVGG6YY
@@ -184,47 +35,11 @@
   license_url:  https://www.coursera.org/account/accomplishments/verify/
   period: Mar 2016
 
-- name: Cloud Computing Capstone
-  emitter: Coursera Course Certificates
-  license_id: XHSR9NRXMH
-  license_url:  https://www.coursera.org/account/accomplishments/verify/
-  period: Feb 2016
-
-- name: Cloud Networking
-  emitter: Coursera Course Certificates
-  license_id: FULH3SQJ2D
-  license_url:  https://www.coursera.org/account/accomplishments/verify/
-  period: Dec 2015
-
-- name: Cloud Computing Applications
-  emitter: Coursera Verified Certificates
-  license_id: QJQ3QL7VLQ
-  license_url:  https://www.coursera.org/account/accomplishments/verify/
-  period: Oct 2015
-
 - name: Getting and Cleaning Data
   emitter: Coursera Verified Certificates
   license_id: VVGHA5CX55
   license_url:  https://www.coursera.org/account/accomplishments/verify/
   period: Jun 2015
-
-- name: "Cloud Computing Concepts: Part 2"
-  emitter: Coursera Verified Certificates
-  license_id: 65U9K8G5AG
-  license_url:  https://www.coursera.org/account/accomplishments/verify/
-  period: Apr 2015
-
-- name: Cloud Computing Concepts
-  emitter: Coursera Verified Certificates
-  license_id: B6BCDN67S2
-  license_url: https://www.coursera.org/account/accomplishments/verify/
-  period: Mar 2015
-
-- name: R Programming
-  emitter: Coursera Verified Certificates
-  license_id: Z6B9K8ALWL
-  license_url: https://www.coursera.org/account/accomplishments/verify/
-  period: Feb 2015
 
 - name: The Data Scientist’s Toolbox
   emitter: Coursera Verified Certificates
