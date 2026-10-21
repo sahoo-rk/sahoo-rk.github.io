@@ -4,11 +4,11 @@
   link: '#experience'
 - name: Education
   link: '#education'
-- name: Skills
-  link: '#skills'
-- name: Interests
-  link: '#interests'
 - name: Publications
   link: '#publications'
-- name: Recognitions
-  link: '#recognitions'
+- name: Presentations
+  link: '#presentations'
+- name: Funding & Awards
+  link: '#awards'
+- name: Professional Activities
+  link: '#activities'
