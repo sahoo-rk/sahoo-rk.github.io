@@ -3,9 +3,9 @@
   <h2 class="mb-5">Funding & Awards</h2>
   
   <h3>Grant & Fellowship</h3>
-  <ul class="fa-ul mb-0">
+  <ul class="fa-ul">
     {% for item in site.data.grant_fellowship %}
-      <li class="mb-1">
+      <li class="text-justify mb-1">
         <span class="fa-li"><i class="fas fa-graduation-cap"></i></span>
         {{ item.name }}, {{ item.period }}<br>
         {% if item.license_id %}
