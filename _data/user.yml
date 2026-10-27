@@ -24,3 +24,7 @@ medium: null
 orc_id: https://orcid.org/0000-0001-9445-1440
 google_scholar: https://scholar.google.com/citations?hl=en&user=olAynPwAAAAJ
 scilit: https://www.scilit.com/scholars/6225222
+highlight:
+  icon: star
+  text: 'Structurally reorganized Wmk lineage with distinct genomic context and restricted distribution in <em>Wolbachia</em>'
+  doi: "10.1093/g3journal/jkag234"
