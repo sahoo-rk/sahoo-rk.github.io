@@ -35,17 +35,18 @@ title: "CV: Ranjit K Sahoo"
         {% if site.data.user.orc_id %}
           <a class="social-icon" href="{{ site.data.user.orc_id }}" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-orcid"></i></a>
         {% endif %}
+        {% if site.data.user.google_scholar %}
+          <a class="social-icon" href="{{ site.data.user.google_scholar }}" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-google-scholar"></i></a>
+        {% endif %}
         {% if site.data.user.scilit %}
-          <a class="social-icon" href="{{ site.data.user.scilit }}" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-bookmark"></i></a>
+          <a class="social-icon" href="{{ site.data.user.scilit }}" target="_blank" rel="noopener noreferrer">
+          <img src="{{ site.baseurl }}/assets/img/scilit.png" alt="Scilit" class="social-icon-img"></a>
         {% endif %}
         {% if site.data.user.researchgate %}
           <a class="social-icon" href="{{ site.data.user.researchgate }}"><i class="fab fa-researchgate"></i></a>
         {% endif %}
         {% if site.data.user.medium %}
           <a class="social-icon" href="{{ site.data.user.medium }}"><i class="fab fa-medium"></i></a>
-        {% endif %}
-        {% if site.data.user.google_scholar %}
-          <a class="social-icon" href="{{ site.data.user.google_scholar }}" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-google-scholar"></i></a>
         {% endif %}
       </div>
     {% if site.data.user.highlight %}
