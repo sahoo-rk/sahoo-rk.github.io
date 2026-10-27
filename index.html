@@ -49,6 +49,13 @@ title: "CV: Ranjit K Sahoo"
         {% endif %}
       </div>
     </div>
+    {% if site.data.user.highlight %}
+      <div class="recent-highlight mt-3">
+        <i class="fas fa-{{ site.data.user.highlight.icon }} text-warning"></i>
+        <strong>Recent:</strong>
+        <a href="https://doi.org/{{ site.data.user.highlight.doi }}" target="_blank" rel="noopener noreferrer">{{ site.data.user.highlight.text | safe }}</a>
+      </div>
+    {% endif %}
   </section>
 
   <hr class="m-0" />
