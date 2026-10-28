@@ -1,0 +1,14 @@
+<div class="resume-section-content">
+  <h2 class="mb-5">Portfolio</h2>
+  {% for item in site.data.portfolio %}
+  <div class="d-flex flex-column flex-md-row justify-content-between{% unless forloop.last %} mb-5{% endunless %}">
+    <div class="flex-grow-1">
+      <h3 class="mb-0">{{ item.project }}</h3>
+      <div class="subheading mb-3">{{ item.role }}</div>
+      <p>{{ item.description }}</p>
+      <p>{{ item.skills }}</p>
+    </div>
+    <div class="flex-shrink-0"><span class="text-primary">{{ item.period }}</span></div>
+  </div>
+  {% endfor %}
+</div>
