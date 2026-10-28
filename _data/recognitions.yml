@@ -1,5 +1,9 @@
 
 grant_fellowship:
+  - name: Five years project grant (part of INSPIRE Faculty Fellowship Award)
+    emitter: Department of Science and Technology (DST), India
+    period: 2021-2026
+
   - name: INSPIRE Faculty Fellowship
     emitter: Department of Science and Technology (DST), India
     period: 2021
