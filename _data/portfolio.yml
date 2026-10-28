@@ -1,0 +1,15 @@
+- project: Genomic evolution of Wolbachia male-killing candidate genes
+  role: Principal Investigator | Conceptualization | Funding | Investigation | Supervision | Administration | Data generation & analysis
+  description: |
+    Investigated the evolutionary diversity of the Wolbachia male-killing candidate gene wmk using comparative genomics 
+    and structural analyses. Analysis of 251 Wolbachia genomes identified a sixth divergent lineage and revealed differences 
+    in predicted protein structure and genomic context, providing new insights into the diversification of this candidate gene.
+  skills: Comparative phylogenomics, Genome assembly and annotation, Protein structure modelling, Structural phylogenetics
+
+- project: Population genomics of an introduced biocontrol beetle
+  role: Principal Investigator | Conceptualization | Funding | Investigation | Supervision | Administration | Data generation & analysis
+  description: |
+    Investigated the population-genetic consequences of introduction history and subsequent augmentative breeding in the parthenium beetle, 
+    a biocontrol agent introduced to India. Genome-wide variation across geographically distributed populations was used to examine population 
+    structure, nucleotide diversity, inbreeding, and differences in effective population size.
+  skills: Population-genomic analyses, Demographic inference
