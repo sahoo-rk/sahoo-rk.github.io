@@ -15,6 +15,9 @@
         {% else %}
           {{ item.citation }}
         {% endif %}
+        {% if item.credit %}
+          <br><small class="text-muted">{{ item.credit }}</small>
+        {% endif %}
       </li>
     {% endfor %}
   </ul>
@@ -31,6 +34,9 @@
           {{ item.citation }}, <a href="https://doi.org/{{ item.doi }}" target="_blank" rel="noopener noreferrer">{{ item.doi }}</a>
         {% else %}
           {{ item.citation }}
+        {% endif %}
+        {% if item.credit %}
+          <br><small class="text-muted">{{ item.credit }}</small>
         {% endif %}
       </li>
     {% endfor %}
