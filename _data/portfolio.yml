@@ -1,28 +1,31 @@
 - project: Genomic evolution of Wolbachia male-killing candidate genes
-  role: Principal Investigator | Conceptualization | Funding | Investigation | Supervision | Administration | Data generation & analysis
+  role: Principal Investigator | Conceptualization | Funding | Investigation | Supervision | Administration
   description: |
-    Investigated the evolutionary diversity of the Wolbachia male-killing candidate gene wmk using comparative genomics 
-    and structural analyses. Analysis of 251 Wolbachia genomes identified a sixth divergent lineage and revealed differences 
-    in predicted protein structure and genomic context, providing new insights into the diversification of this candidate gene.
-  skills: Comparative phylogenomics, Genome assembly and annotation, Protein structure modelling, Structural phylogenetics
-  period: January 2021 - January 2026
+    Investigated the evolutionary diversity of the Wolbachia male-killing candidate gene wmk using comparative genomics and protein 
+    structural analyses. Genome assembly and comparative analysis identified a divergent wmk homolog in the Wolbachia strain infecting 
+    the parthenium beetle. Further analysis of 251 Wolbachia genomes evaluated the distribution of wmk homologs across the global Wolbachia 
+    phylogeny, delineating a sixth divergent lineage and revealing differences in predicted protein structure and genomic context. These 
+    findings provide new insights into the evolutionary diversification of this candidate gene.
+  skills: 'Keywords: Phylogenomics, genomic-neighborhood analysis, Structural phylogenetics, Protein structure modelling'
+  period: January 2022 - July 2026
 
 - project: Population genomics of an introduced biocontrol beetle
-  role: Principal Investigator | Conceptualization | Funding | Investigation | Supervision | Administration | Data generation & analysis
+  role: Principal Investigator | Conceptualization | Funding | Investigation | Supervision | Administration
   description: |
-    Investigated the population-genetic consequences of introduction history and subsequent augmentative breeding in the parthenium beetle, 
-    a biocontrol agent introduced to India. Genome-wide variation across geographically distributed populations was used to examine population 
-    structure, nucleotide diversity, inbreeding, and differences in effective population size.
-  skills: Population-genomic analyses, Demographic inference
-  period: January 2021 - January 2026
+    Investigated the population-genetic consequences of the introduction history and subsequent augmentative breeding of Calligrapha (Zygogramma) 
+    bicolorata, commonly known as the parthenium beetle, a biological control agent introduced to India. Whole-genome assembly and resequencing of 
+    74 individual beetles from geographically distributed populations generated genome-wide variation data, which were used to examine population 
+    structure, nucleotide diversity, inbreeding, and contemporary effective population size.
+  skills: 'Keywords: Genomics, Population genomics, Biocontrol genomics'
+  period: January 2021 - November 2026
 
 - project: Evolutionary history and ecological interactions of butterflies
   role: PhD Thesis | Data generation & analysis | Methodology | Investigation
   description: |
     Investigated butterfly diversification, host-plant associations, and the evolutionary consequences of interactions with microbial symbionts. 
-    Phylogenetic and comparative analyses examined the diversification of Hesperiidae and Hypolimnas, including evidence consistent with 
-    Wolbachia-associated mitochondrial introgression between butterfly species. Common-garden experiments tested behavioral divergence in 
-    female egg-laying behavior associated with local host plant abundance.
-  skills: Phylogenetics, Comparative evolutionary analysis, Behavioral experiments
+    Phylogenetic and comparative analyses examined the diversification of Hesperiidae and the Hypolimnas group of butterflies, as well as 
+    Wolbachia-associated mitochondrial introgression between butterfly species. Additionally, common-garden experiments investigated how local 
+    host-plant abundance influences larval development and female oviposition preference in a species of Acraea butterfly.
+  skills: 'Keywords: Phylogenetics, Biogeography, Host-microbe interaction'
   period: January 2013 - September 2018
   
